@@ -1,0 +1,6 @@
+{
+  "name": "Spec Table Builder v4",
+  "description": "An advanced spec table editor that lets you construct prompt building sheets and build customized prompt builder single-HTML web apps in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
